@@ -1,0 +1,21 @@
+# Node.js
+/node_modules
+/.env
+
+# Python
+__pycache__/
+/*.pyc
+/venv/
+env/
+
+# Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# React build files
+/build
+/dist
+
+# VSCode settings (if using VSCode)
+/.vscode/
